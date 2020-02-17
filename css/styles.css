@@ -1,0 +1,14 @@
+body {
+    color: #353535;
+    font-family: 'Calibri', sans-serif;
+}
+
+hr {
+    width: 5%;
+    border: none;
+    border-bottom: 0.25em dotted #e5e5e5;
+}
+
+h1,h3 {
+    color: #09757a;
+}
